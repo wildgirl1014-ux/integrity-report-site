@@ -1,0 +1,7 @@
+{
+  "name": "integrity-report-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "청렴 신고 사건 조회 정적 페이지 + korea.kr RSS 중계 함수",
+  "engines": { "node": ">=18" }
+}
